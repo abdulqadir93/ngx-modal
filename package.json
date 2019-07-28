@@ -23,7 +23,7 @@
     "angular2-modal"
   ],
   "scripts": {
-    "postinstall": "gulp package"
+    "prepare": "gulp package"
   },
   "peerDependencies": {
     "@angular/core": "^2.0.0",
